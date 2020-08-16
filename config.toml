@@ -1,4 +1,4 @@
-baseURL = "https://sizalessa.github.io/santech.github.io/"
+baseURL = "https://santehmaster.best"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
