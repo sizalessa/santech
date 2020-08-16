@@ -9,7 +9,7 @@ theme = "hugo-scroll"
 #themesDir = "../.."
 
 # The "title" of your website
-title = "Сантехник Кременчуг"
+title = "Сантехмастер Кременчуг"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -17,7 +17,7 @@ title = "Сантехник Кременчуг"
     copyright = "© Stanislav Sizonov"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Профессиональный монтаж систем отопления, водоснабжения, водоотведения, подготовка питьевой и бытовой воды в квартирах и частном доме"
+    description = "Профессиональный монтаж систем отопления, водоснабжения, канализации в квартире и частном доме"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -38,4 +38,4 @@ title = "Сантехник Кременчуг"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "сантехник, сантехнік, сантехнік кременчук, сантехник кременчуг, вызвать сантехника, кременчуг"
+        keywords = "сантехмастер, сантехник, сантехнік, сантехнік кременчук, сантехник кременчуг, вызвать сантехника, кременчуг"
